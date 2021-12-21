@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  text-align:center;
+}
+.id{
+  background-image: url(https://img5.goodfon.com/wallpaper/nbig/9/16/cyberpunk-car-supercar-art-anime-japan-kanji-japanse-street.jpg);
+  background-size: cover;
+  background-position: top;
+  height:350px;
+}
+.id2{
+  margin-left: 350px;
+}
+.id3{
+  margin-right: 350px;
+}
+.id4{
+  margin-left:350px;
+}
+.id5{
+  margin-right:350px;
+}

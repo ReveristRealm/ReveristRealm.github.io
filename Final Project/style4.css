@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+  text-align:center;
+}
+.id{
+  background-image: url(https://preview.redd.it/7mk7wtveg9w61.jpg?auto=webp&s=3a7914e49ac35b0616ff020230c30bae1320286d);
+  background-size: cover;
+  background-position: center;
+  height:350px;
+}
+
+.ok{
+  height:500px;
+  width:900px;
+}

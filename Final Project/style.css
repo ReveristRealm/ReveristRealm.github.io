@@ -1,0 +1,18 @@
+html{
+  background:url(Images/11.jpg) no-repeat center center fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+}
+.id1 {
+ font-family:
+}
+.Logo {
+  width:100px;
+  height:100px;
+}
+.ok{
+  width:450px;
+  height:450px;
+}

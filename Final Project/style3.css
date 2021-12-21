@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+  text-align:center;
+}
+.id{
+  background-image: url(https://w.wallha.com/ws/10/ikqMuTXh.jpg);
+  background-size: cover;
+  background-position: center;
+  height:350px;
+}
+.di{
+  height:500px;
+  width:500px;
+}
